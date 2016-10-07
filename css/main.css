@@ -16,3 +16,12 @@ h1, h2 {
   color: #8f2440;
 
 }
+a:hover {
+  color: #3f1622;
+  text-decoration: none;
+ }
+
+ a:link{
+   color: #8f2440;
+   text-decoration: none;
+ }
