@@ -1,7 +1,9 @@
 html {
   color: #c9b5ab;
-  font-family: sans-serif,serif;
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 1.5;
+  line-weight: 1.5;
 }
 img {
   width: 100%;
