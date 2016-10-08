@@ -37,7 +37,7 @@ img {
   width: 100%;
 }
 
-h1, h2 {``
+h1, h2 {
   color: #222:
 }
 
@@ -47,12 +47,12 @@ h1, h2 {``
 }
 
 a:hover {
-  color: #3f1622;
+  color: #3F1622;
   text-decoration: none;``
  }
 
  a:link{
-   color: #8f2440;
+   color: #8F2440;
    text-decoration: none;
  }
 
