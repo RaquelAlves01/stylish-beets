@@ -31,8 +31,8 @@ nav> ol{
   font-weight: normal;
 }
 
-.fiftyfive {
-  font-weight: bold;
+.second {
+  font-size: .8rem;
 }
 
 p :nth-first-child {
