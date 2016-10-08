@@ -13,15 +13,15 @@ header {
   font-size: 1.125rem;
 }
 
-.beetroot {
+nav> ol{
   list-style-type: none;
 }
 
 .bundle {
   font-family:'PT Serif', serif;
+  font-size: 0.8rem;
   text-align:center;
   font-style: italic;
-  font-size: 0.8rem;
 }
 
 body {
