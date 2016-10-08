@@ -37,10 +37,14 @@ h1, h2 {``
 
 a:hover {
   color: #3f1622;
-  text-decoration: none;
+  text-decoration: none;``
  }
 
  a:link{
    color: #8f2440;
    text-decoration: none;
  }
+
+aside {
+  line-height: 1.5;
+}
