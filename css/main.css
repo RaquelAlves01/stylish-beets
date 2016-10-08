@@ -39,14 +39,14 @@ nav> ol {
 .bundle {
   font-family:'PT Serif', serif;
   font-size: 0.8rem;
-  text-align:center;
+  text-align: center;
   font-style: italic;
 }
 
 .first {
   font-size: 1.125rem;
   line-height: 1.5;
-  font-style: italic;
+  font-style: normal;
   font-weight: normal;
 }
 
@@ -64,7 +64,7 @@ nav> ol {
 
 .size {
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
@@ -86,7 +86,7 @@ blockquote {
 }
 
 .chris {
-font-size: 1.125rem;
+font-size: 0.8rem;
 }
 
 aside {
