@@ -1,8 +1,8 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
-  color: #222222;
-  font-weight: 1.5;
+}
+body {
+  font-family: 'PT Serif';
 }
 
 header {
