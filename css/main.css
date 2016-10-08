@@ -2,7 +2,7 @@ html {
   background-color: #c9b5ab;
 }
 body {
-  font-family: 'PT Serif';
+  font-family: 'PT Serif', serif;
 }
 
 header {
@@ -61,6 +61,7 @@ h2 {
 
 a{
   font-weight:bold;
+  text-decoration:none;
 }
 
 a:hover {
@@ -79,7 +80,7 @@ blockquote {
 }
 
 .chris {
-font-size: 1.125;
+font-size: 1.125rem;
 }
 
 aside {
