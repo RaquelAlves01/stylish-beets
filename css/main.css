@@ -13,6 +13,15 @@ header {
 figurecaption {
   font-style: italic;
 }
+
+p :nth-first-child {
+  font-style: oblique;
+}
+
+.common> li {
+  list-style-type: lower-greek;
+}
+
 img {
   width: 100%;
 }
