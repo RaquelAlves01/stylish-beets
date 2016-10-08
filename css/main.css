@@ -25,6 +25,14 @@ p :nth-first-child {
   list-style-type: lower-greek;
 }
 
+.size {
+  font-style: italic;
+}
+
+dt> dl {
+  font-weight: bold;
+}
+
 img {
   width: 100%;
 }
