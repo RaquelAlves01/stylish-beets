@@ -18,7 +18,7 @@ p :nth-first-child {
   font-style: oblique;
 }
 
-.common> li {
+ ol {
   list-style-type: lower-greek;
 }
 
