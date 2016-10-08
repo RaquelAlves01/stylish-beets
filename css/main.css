@@ -25,9 +25,11 @@ p :nth-first-child {
 img {
   width: 100%;
 }
-h1, h2 {
+
+h1, h2 {``
   color: #222:
 }
+
 .beetroot {
   color: #8f2440;
   list-style-type: none;
