@@ -24,8 +24,11 @@ nav> ol{
   font-style: italic;
 }
 
-body {
-  font-family: 'PT Serif', serif;
+.first {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  font-style: italic;
+  font-weight: normal;
 }
 
 .fiftyfive {
