@@ -2,12 +2,12 @@ html {
   background-color: #c9b5ab;
 }
 body {
-  font-family: 'PT Serif', serif;
+  font-family: "'PT Serif'", serif;
   font-size: 1.125rem;
 }
 
 header {
-  font-family:'PT Sans', sans-serif;
+  font-family:"'PT Sans'", sans-serif;
   font-weight: bold;
   text-decoration:none;
   color: #222;
@@ -86,6 +86,7 @@ font-size: 1.125rem;
 }
 
 aside {
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
