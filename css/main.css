@@ -9,6 +9,10 @@ header {
   font-size: 1.5rem;
 }
 
+.beetroot {
+  list-style-type: none;
+}
+
 .bundle {
   font-style: italic;
 }
