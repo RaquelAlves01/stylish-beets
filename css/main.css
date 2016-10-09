@@ -93,12 +93,7 @@ blockquote strong {
 }
 
 blockquote > cite {
-  font-size: 1.125rem;
-  line-height: 1.5:
-}
-
-br {
-  line-height: 1.5;
+  font-size: 0.8rem;
 }
 
 h2 {
