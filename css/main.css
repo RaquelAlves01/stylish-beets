@@ -26,7 +26,7 @@ h1> i {
   font-weight:400;
 }
 
-a{
+a {
   font-weight:bold;
   text-decoration:none;
 }
@@ -43,6 +43,8 @@ a:hover {
 nav> ol {
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 
 .bundle {
@@ -69,11 +71,12 @@ nav> ol {
 
  ol {
   list-style-type: lower-greek;
+  font-size: 0.8rem;
 }
 
 .size {
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 
