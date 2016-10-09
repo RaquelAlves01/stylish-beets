@@ -11,7 +11,7 @@ body {
 
 header {
   font-family:'PT Sans', sans-serif;
-  font-weight: bold;
+  font-weight: bolder;
   text-decoration:none;
   color: #3f1622;
 
@@ -29,7 +29,8 @@ a {
 
 a:hover {
   color: #3f1622;
- }
+  text-decoration: none;
+}
 
  a:link {
    color: #8f2440;
@@ -54,11 +55,12 @@ nav> ol {
   font-size: 1.125rem;
   line-height: 1.5;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .second {
-  font-size: .8rem;
+  font-size: 1.125rem;
+  font-weight: normal;
 }
 
 .second> b {
@@ -67,7 +69,7 @@ nav> ol {
 
  ol {
   list-style-type: lower-greek;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
 }
 
 .size {
@@ -105,8 +107,8 @@ h2 {
 }
 
 dl> dt {
-  font-weight: bold;
-  font-size: 1.125rem;
+  font-weight: bolder;
+  font-size: 0.8rem;
 }
 
 dl> dd {
