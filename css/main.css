@@ -1,25 +1,25 @@
 html {
   background-color: #c9b5ab;
-  line-height:1.5;
   color: #222;
 }
+
 body {
-  font-family: 'PT Serif', serif;
+  font-family: "'PT Serif'", serif;
   font-size: 1.125rem;
-  font-weight: bold;
 }
 
 header {
-  font-family:'PT Sans', sans-serif;
-  font-weight: bolder;
+  font-family:"'PT Sans'", sans-serif;
+  font-weight: bold;
   text-decoration:none;
+  line-height: normal;
   color: #3f1622;
-
+  line-height:1.5;
 }
 
-h1> i {
+h1 > i {
   font-style: italic;
-  font-weight:400;
+  font-weight: bold;
 }
 
 a {
@@ -29,24 +29,24 @@ a {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
+}
+
+a:link {
+  color: #8f2440;
   text-decoration: none;
 }
 
- a:link {
-   color: #8f2440;
-   text-decoration: none;
- }
-
-nav> ol {
-  font-family: 'PT Sans', sans-serif;
+nav > ol {
+  font-family: "'PT Sans'", sans-serif;
   list-style-type: none;
   font-size: 1.125rem;
   font-weight: bold;
 }
 
 .bundle {
-  font-family:'PT Serif', serif;
-  font-size: 0.8rem;
+  font-family:"'PT Serif'", serif;
+  font-size: 1.125rem;
   text-align: center;
   font-style: italic;
 }
@@ -60,14 +60,13 @@ nav> ol {
 
 .second {
   font-size: 1.125rem;
-  font-weight: normal;
 }
 
-.second> b {
+.second > b {
   font-weight: bold;
 }
 
- ol {
+ol {
   list-style-type: lower-greek;
   font-size: 1.125rem;
 }
@@ -78,41 +77,38 @@ nav> ol {
   line-height: 1.5;
 }
 
-dt> dl {
-  font-weight: bold;
-}
-
 img {
   width: 100%;
 }
-
 
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
 }
+
 blockquote strong {
   font-weight: normal;
 }
 
-.chris {
-font-size: 0.8rem;
+cite {
+  font-size: 0.8rem;
+  font-size:1.5;
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "'PT Sans'", sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
   color: #3f1622;
 }
 
-dl> dt {
+dl > dt {
   font-weight: bolder;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
 }
 
-dl> dd {
-  font-size: 0.8rem;
+dl > dd {
+  font-size: 1.125rem;
 }
 
 aside {
@@ -120,7 +116,7 @@ aside {
   line-height: 1.5;
 }
 
-ul> li {
+ul > li {
   list-style-type: circle;
   font-size: 0.8rem;
 }
