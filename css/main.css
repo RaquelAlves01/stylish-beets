@@ -91,16 +91,15 @@ blockquote strong {
   font-weight: normal;
 }
 
- }
 blockquote > cite {
   font-size: 1.125rem;
   line-height: 1.5:
-  text-align: blockquote;
 }
 
 br {
   line-height: 1.5;
 }
+
 h2 {
   font-family: "'PT Sans'", sans-serif;
   line-height: 1.5;
