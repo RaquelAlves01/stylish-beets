@@ -101,6 +101,15 @@ blockquote strong {
 font-size: 0.8rem;
 }
 
+dl> dt {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+dl> dd {
+  font-size: 0.8rem;
+}
+
 aside {
   font-size: 1.125rem;
   line-height: 1.5;
@@ -108,4 +117,5 @@ aside {
 
 ul> li {
   list-style-type: circle;
+  font-size: 0.8rem;
 }
