@@ -10,7 +10,7 @@ body {
 
 header {
   font-family:"'PT Sans'", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   text-decoration:none;
   line-height: normal;
   color: #3f1622;
@@ -19,11 +19,11 @@ header {
 
 h1 > i {
   font-style: italic;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 a {
-  font-weight:bold;
+  font-weight:700;
   text-decoration:none;
 }
 
@@ -41,7 +41,7 @@ nav > ol {
   font-family: "'PT Sans'", sans-serif;
   list-style-type: none;
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .bundle {
@@ -55,25 +55,27 @@ nav > ol {
   font-size: 1.125rem;
   line-height: 1.5;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .second {
   font-size: 1.125rem;
+  line-height: 1.5;
 }
 
 .second > b {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 ol {
   list-style-type: lower-greek;
   font-size: 1.125rem;
+  line-height: 1.5;
 }
 
 .size {
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
@@ -90,20 +92,26 @@ blockquote strong {
   font-weight: normal;
 }
 
-cite {
-  font-size: 0.8rem;
-  font-size:1.5;
+ }
+blockquote > cite {
+  font-size: 1.125rem;
+  line-height: 1.5:
+  text-align: blockquote;
 }
 
+br {
+  line-height: 1.5;
+}
 h2 {
   font-family: "'PT Sans'", sans-serif;
+  line-height: 1.5;
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: 700;
   color: #3f1622;
 }
 
 dl > dt {
-  font-weight: bolder;
+  font-weight: 700;
   font-size: 1.125rem;
 }
 
