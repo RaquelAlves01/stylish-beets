@@ -59,8 +59,8 @@ nav > ol {
 }
 
 .second {
-  font-size: 1.125rem;
-  line-height: 1.5;
+  font-size: 0.8rem;
+  font-weight: 400;
 }
 
 .second > b {
